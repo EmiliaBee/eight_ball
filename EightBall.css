@@ -1,0 +1,50 @@
+body{ 
+    background-color:white; 
+} 
+
+h2{ 
+    font-family: NunitoSans; 
+    font-weight: bold;
+    color:gray; 
+    font-size: 50px;
+    margin: 20px 0px -5px 0px;
+} 
+
+.question {
+    margin-top: 5px;
+    margin-bottom: 20px;
+ padding: 5px;
+ width: 250px;
+}
+
+#p1{
+font-family: NunitoSans;
+color:darkred;
+font-size: 20px;
+}
+
+#eight{ 
+    font-size:400%; 
+    color: #000000; 
+}
+ 
+.black-ball{
+    border-radius: 50%; 
+    background-color: #000; 
+    width: 160px; 
+    height: 160px; 
+    display:table; 
+    text-align:center; 
+    padding: 70px; 
+    box-shadow: 5px 5px 5px #333333; 
+} 
+
+.white-ball{ 
+    border-radius: 50%; 
+    background-color: #fff; 
+    width: 5px; 
+    height: 5px; 
+    display:table-cell; 
+    vertical-align:middle; 
+    font-family: cursive;  
+}
